@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transform: translate(-35px, -70px);
+}
+
+button {
+    width: 10%;
+    padding: 8px 12px;
+    background-color: rgb(127, 225, 255);
+    margin:  25px 0;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.jokes {
+    font-size: 1.2rem;
+    font-family: cursive;
+}
