@@ -27,7 +27,15 @@ button {
     border-radius: 10px;
 }
 
+.output {
+    display: flex;
+    justify-content: center;
+}
+
 .jokes {
     font-size: 1.2rem;
+    min-width: 600px;
+    max-width: 50%;
     font-family: cursive;
+    text-align: center;
 }
