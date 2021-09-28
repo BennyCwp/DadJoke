@@ -1,1 +1,1 @@
-# DadJoke
+Using Dadjokes API to create a small app that generate random jokes
